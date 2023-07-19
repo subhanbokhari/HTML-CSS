@@ -1,0 +1,15 @@
+.container-fluid
+{
+    background-color: bisque;
+}
+
+.navbar-brand
+{
+    color: firebrick;
+    text-decoration-line: underline;
+}
+
+.nav-link
+{
+    color: maroon;
+}
